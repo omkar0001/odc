@@ -1,0 +1,7 @@
+/* Add here all your css styles (customizations) */
+
+.homeapp-header.one-page-header .navbar-nav  li a {
+    font-size:18px;
+    font-weight:400;
+    color:white;
+}
